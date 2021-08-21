@@ -1,0 +1,1279 @@
+DISTRICT,CROP,YEAR,AVG-TEMP,RAINFALL-(MM),AREA-(HECTARE),PRODUCTION-(TONNES)
+Bagalkot,Arecanut,2009,27,114,3003,27330
+Bagalkot,Arecanut,2010,29,126,3380,29182
+Bagalkot,Arecanut,2012,28,128,3546,29792
+Bagalkot,Arecanut,2013,27,113,3318,28329
+Bagalkot,Arecanut,2014,27,112,3580,29589
+Bagalkot,Arecanut,2015,30,110,3347,29988
+Bagalkot,Arecanut,2016,26,128,3149,28052
+Bagalkot,Arecanut,2017,27,120,3217,29646
+Bagalkot,Maize(Corn),2009,28,121,4003,29660
+Bagalkot,Maize(Corn),2010,27,117,3434,27058
+Bagalkot,Maize(Corn),2011,28,124,3847,29435
+Bagalkot,Maize(Corn),2012,27,124,4002,30666
+Bagalkot,Maize(Corn),2013,27,124,3355,30325
+Bagalkot,Maize(Corn),2014,25,114,3022,30890
+Bagalkot,Maize(Corn),2015,27,111,3720,30293
+Bagalkot,Maize(Corn),2016,29,115,3025,30537
+Bagalkot,Maize(Corn),2017,30,128,4064,27325
+Bagalkot,Maize(Corn),2018,28,111,2914,30076
+Bagalkot,Cotton,2009,30,113,3664,28348
+Bagalkot,Cotton,2010,27,113,4022,29115
+Bagalkot,Cotton,2011,31,123,3535,29140
+Bagalkot,Cotton,2012,27,117,3760,30939
+Bagalkot,Cotton,2013,31,112,3216,27611
+Bagalkot,Cotton,2014,31,126,3534,30074
+Bagalkot,Cotton,2015,27,121,3991,27805
+Bagalkot,Cotton,2016,27,126,3075,30709
+Bagalkot,Cotton,2017,25,130,2802,27418
+Bagalkot,Cotton,2018,26,119,3763,27429
+Bagalkot,Rice,2009,27,118,3195,28018
+Bagalkot,Rice,2010,29,125,3088,30896
+Bagalkot,Rice,2011,27,127,4076,28186
+Bagalkot,Rice,2012,30,119,3444,30683
+Bagalkot,Rice,2013,28,121,3278,28655
+Bagalkot,Rice,2014,27,127,3887,28208
+Bagalkot,Rice,2015,27,128,3414,30552
+Bagalkot,Rice,2016,29,118,3495,28887
+Bagalkot,Rice,2017,30,116,3730,28546
+Bagalkot,Rice,2018,29,122,3312,28168
+Bagalkot,Bajra,2000,27,114,3003,27330
+Chamarajanagar,Bajra,2001,29,126,3380,29182
+Chamarajanagar,Bajra,2002,31,118,3968,27799
+Chamarajanagar,Bajra,2003,28,128,3546,29792
+Chamarajanagar,Bajra,2004,27,113,3318,28329
+Chamarajanagar,Bajra,2005,27,112,3580,29589
+Chamarajanagar,Bajra,2006,30,110,3347,29988
+Chamarajanagar,Bajra,2007,26,128,3149,28052
+Chamarajanagar,Bajra,2008,27,120,3217,29646
+Chamarajanagar,Bajra,2009,27,117,3767,28608
+Chamarajanagar,Jowar,2000,28,121,4003,29660
+Chamarajanagar,Jowar,2001,27,117,3434,27058
+Chamarajanagar,Jowar,2002,28,124,3847,29435
+Chamarajanagar,Jowar,2003,27,124,4002,30666
+Chamarajanagar,Jowar,2004,27,124,3355,30325
+Chamarajanagar,Jowar,2005,25,114,3022,30890
+Chamarajanagar,Jowar,2006,27,111,3720,30293
+Chamarajanagar,Jowar,2007,29,115,3025,30537
+Chamarajanagar,Jowar,2008,30,128,4064,27325
+Chamarajanagar,Jowar,2009,28,111,2914,30076
+Chamarajanagar,Arecanut,2000,30,113,3664,28348
+Chamarajanagar,Arecanut,2001,27,113,4022,29115
+Chamarajanagar,Arecanut,2002,31,123,3535,29140
+Chamarajanagar,Arecanut,2003,27,117,3760,30939
+Chamarajanagar,Arecanut,2004,31,112,3216,27611
+Chamarajanagar,Arecanut,2005,31,126,3534,30074
+Chamarajanagar,Arecanut,2006,27,121,3991,27805
+Chamarajanagar,Arecanut,2007,27,126,3075,30709
+Chamarajanagar,Arecanut,2008,25,130,2802,27418
+Chamarajanagar,Arecanut,2009,26,119,3763,27429
+Chamarajanagar,Maize(Corn),2000,27,118,3195,28018
+Chamarajanagar,Maize(Corn),2001,29,125,3088,30896
+Chamarajanagar,Maize(Corn),2002,27,127,4076,28186
+Chamarajanagar,Maize(Corn),2003,30,119,3444,30683
+Chamarajanagar,Maize(Corn),2004,28,121,3278,28655
+Chamarajanagar,Maize(Corn),2005,27,127,3887,28208
+Chamarajanagar,Maize(Corn),2006,27,128,3414,30552
+Chamarajanagar,Maize(Corn),2007,29,118,3495,28887
+Chamarajanagar,Maize(Corn),2008,30,116,3730,28546
+Chamarajanagar,Maize(Corn),2009,29,122,3312,28168
+Chamarajanagar,Cotton,2009,27,114,3003,27330
+Gadag,Cotton,2010,29,126,3380,29182
+Gadag,Cotton,2011,31,118,3968,27799
+Gadag,Cotton,2012,28,128,3546,29792
+Gadag,Cotton,2013,27,113,3318,28329
+Gadag,Cotton,2014,27,112,3580,29589
+Gadag,Cotton,2015,30,110,3347,29988
+Gadag,Cotton,2016,26,128,3149,28052
+Gadag,Cotton,2017,27,120,3217,29646
+Gadag,Cotton,2018,27,117,3767,28608
+Gadag,Rice,2009,28,121,4003,29660
+Gadag,Rice,2010,27,117,3434,27058
+Gadag,Rice,2011,28,124,3847,29435
+Gadag,Rice,2012,27,124,4002,30666
+Gadag,Rice,2013,27,124,3355,30325
+Gadag,Rice,2014,25,114,3022,30890
+Gadag,Rice,2015,27,111,3720,30293
+Gadag,Rice,2016,29,115,3025,30537
+Gadag,Rice,2017,30,128,4064,27325
+Gadag,Rice,2018,28,111,2914,30076
+Gadag,Bajra,2009,30,113,3664,28348
+Gadag,Bajra,2010,27,113,4022,29115
+Gadag,Bajra,2011,31,123,3535,29140
+Gadag,Bajra,2012,27,117,3760,30939
+Gadag,Bajra,2013,31,112,3216,27611
+Gadag,Bajra,2014,31,126,3534,30074
+Gadag,Bajra,2015,27,121,3991,27805
+Gadag,Bajra,2016,27,126,3075,30709
+Gadag,Bajra,2017,25,130,2802,27418
+Gadag,Bajra,2018,26,119,3763,27429
+Gadag,Jowar,2009,27,118,3195,28018
+Gadag,Jowar,2010,29,125,3088,30896
+Gadag,Jowar,2011,27,127,4076,28186
+Gadag,Jowar,2012,30,119,3444,30683
+Gadag,Jowar,2013,28,121,3278,28655
+Gadag,Jowar,2014,27,127,3887,28208
+Gadag,Jowar,2015,27,128,3414,30552
+Gadag,Jowar,2016,29,118,3495,28887
+Gadag,Jowar,2017,30,116,3730,28546
+Gadag,Jowar,2018,29,122,3312,28168
+Gadag,Arecanut,2000,27,114,3377,30599
+Gadag,Arecanut,2001,29,126,3059,28445
+Gadag,Arecanut,2002,31,118,3298,27413
+Gadag,Arecanut,2003,28,128,3203,29345
+Gadag,Arecanut,2004,27,113,4034,27296
+Gadag,Arecanut,2005,27,112,3194,29250
+Gadag,Arecanut,2006,30,110,3366,28603
+Gadag,Arecanut,2007,26,128,2889,28671
+Gadag,Arecanut,2008,27,120,3086,29567
+Belagavi (Belgaum),Arecanut,2009,27,117,3449,29544
+Belagavi (Belgaum),Maize(Corn),2000,28,121,4003,29660
+Belagavi (Belgaum),Maize(Corn),2001,27,117,3434,27058
+Belagavi (Belgaum),Maize(Corn),2002,28,124,3847,29435
+Belagavi (Belgaum),Maize(Corn),2003,27,124,4002,30666
+Belagavi (Belgaum),Maize(Corn),2004,27,124,3355,30325
+Belagavi (Belgaum),Maize(Corn),2005,25,114,3022,30890
+Belagavi (Belgaum),Maize(Corn),2006,27,111,3720,30293
+Belagavi (Belgaum),Maize(Corn),2007,29,115,3025,30537
+Belagavi (Belgaum),Maize(Corn),2008,30,128,4064,27325
+Belagavi (Belgaum),Maize(Corn),2009,28,111,2914,30076
+Belagavi (Belgaum),Cotton,2000,30,113,3311,27836
+Belagavi (Belgaum),Cotton,2001,27,113,3048,28170
+Belagavi (Belgaum),Cotton,2002,31,123,3129,29280
+Belagavi (Belgaum),Cotton,2003,27,117,3513,27282
+Belagavi (Belgaum),Cotton,2004,31,112,3135,29575
+Belagavi (Belgaum),Cotton,2005,31,126,3909,28527
+Belagavi (Belgaum),Cotton,2006,27,121,3954,27965
+Belagavi (Belgaum),Cotton,2007,27,126,2900,29250
+Belagavi (Belgaum),Cotton,2008,25,130,3420,27997
+Belagavi (Belgaum),Cotton,2009,26,119,2843,27244
+Belagavi (Belgaum),Rice,2000,27,118,3971,29690
+Belagavi (Belgaum),Rice,2001,29,125,3255,28464
+Belagavi (Belgaum),Rice,2002,27,127,3589,30175
+Belagavi (Belgaum),Rice,2003,30,119,3753,29666
+Belagavi (Belgaum),Rice,2004,28,121,3476,28883
+Belagavi (Belgaum),Rice,2005,27,127,3557,27157
+Belagavi (Belgaum),Rice,2006,27,128,3628,29788
+Belagavi (Belgaum),Rice,2007,29,118,3548,27410
+Belagavi (Belgaum),Rice,2008,30,116,3299,29400
+Belagavi (Belgaum),Rice,2009,29,122,3562,30935
+Belagavi (Belgaum),Bajra,2009,27,114,3507,29802
+Belagavi (Belgaum),Bajra,2010,29,126,4001,35978
+Belagavi (Belgaum),Bajra,2011,31,118,3591,34747
+Belagavi (Belgaum),Bajra,2012,28,128,3102,30412
+Belagavi (Belgaum),Bajra,2013,27,113,3557,38821
+Belagavi (Belgaum),Bajra,2014,27,112,3785,30956
+Belagavi (Belgaum),Bajra,2015,30,110,3723,30597
+Belagavi (Belgaum),Bajra,2016,26,128,3364,34026
+Belagavi (Belgaum),Bajra,2017,27,120,3017,28641
+Belagavi (Belgaum),Bajra,2018,27,117,3098,36222
+Belagavi (Belgaum),Jowar,2009,28,121,2991,32798
+Belagavi (Belgaum),Jowar,2010,27,117,3359,28807
+Belagavi (Belgaum),Jowar,2011,28,124,4080,37726
+Belagavi (Belgaum),Jowar,2012,27,124,2805,31837
+Belagavi (Belgaum),Jowar,2013,27,124,3531,38894
+Belagavi (Belgaum),Jowar,2014,25,114,2807,29839
+Belagavi (Belgaum),Jowar,2015,27,111,4001,31086
+Belagavi (Belgaum),Jowar,2016,29,115,3913,28121
+Belagavi (Belgaum),Jowar,2017,30,128,2813,30315
+Tumakuru (Tumkur),Jowar,2018,28,111,3933,33237
+Tumakuru (Tumkur),Arecanut,2009,30,113,3015,28661
+Tumakuru (Tumkur),Arecanut,2010,27,113,3854,34070
+Tumakuru (Tumkur),Arecanut,2011,31,123,4018,36922
+Tumakuru (Tumkur),Arecanut,2012,27,117,3926,34504
+Tumakuru (Tumkur),Arecanut,2013,31,112,3671,37282
+Tumakuru (Tumkur),Arecanut,2014,31,126,3821,36065
+Tumakuru (Tumkur),Arecanut,2015,27,121,3793,37261
+Tumakuru (Tumkur),Arecanut,2016,27,126,2898,34659
+Tumakuru (Tumkur),Arecanut,2017,25,130,3741,36320
+Tumakuru (Tumkur),Arecanut,2018,26,119,3424,35250
+Tumakuru (Tumkur),Maize(Corn),2009,27,118,3827,30271
+Tumakuru (Tumkur),Maize(Corn),2010,29,125,3914,29062
+Tumakuru (Tumkur),Maize(Corn),2011,27,127,2809,34246
+Tumakuru (Tumkur),Maize(Corn),2012,30,119,3840,31593
+Tumakuru (Tumkur),Maize(Corn),2013,28,121,3773,33355
+Tumakuru (Tumkur),Maize(Corn),2014,27,127,4052,36199
+Tumakuru (Tumkur),Maize(Corn),2015,27,128,3953,33370
+Tumakuru (Tumkur),Maize(Corn),2016,29,118,3093,38697
+Tumakuru (Tumkur),Maize(Corn),2017,30,116,3502,38232
+Tumakuru (Tumkur),Maize(Corn),2018,29,122,3576,30793
+Tumakuru (Tumkur),Cotton,2000,27,114,3507,29802
+Tumakuru (Tumkur),Cotton,2001,29,126,4001,35978
+Tumakuru (Tumkur),Cotton,2002,31,118,3591,34747
+Tumakuru (Tumkur),Cotton,2003,28,128,3102,30412
+Tumakuru (Tumkur),Cotton,2004,27,113,3557,38821
+Tumakuru (Tumkur),Cotton,2005,27,112,3785,30956
+Tumakuru (Tumkur),Cotton,2006,30,110,3723,30597
+Tumakuru (Tumkur),Cotton,2007,26,128,3364,34026
+Tumakuru (Tumkur),Cotton,2008,27,120,3017,28641
+Tumakuru (Tumkur),Cotton,2009,27,117,3098,36222
+Tumakuru (Tumkur),Rice,2000,28,121,2991,32798
+Tumakuru (Tumkur),Rice,2001,27,117,3359,28807
+Tumakuru (Tumkur),Rice,2002,28,124,4080,37726
+Tumakuru (Tumkur),Rice,2003,27,124,2805,31837
+Tumakuru (Tumkur),Rice,2004,27,124,3531,38894
+Tumakuru (Tumkur),Rice,2005,25,114,2807,29839
+Tumakuru (Tumkur),Rice,2006,27,111,4001,31086
+Tumakuru (Tumkur),Rice,2007,29,115,3913,28121
+Tumakuru (Tumkur),Rice,2008,30,128,2813,30315
+Tumakuru (Tumkur),Rice,2009,28,111,3933,33237
+Tumakuru (Tumkur),Bajra,2000,30,113,3015,28661
+Tumakuru (Tumkur),Bajra,2001,27,113,3854,34070
+Tumakuru (Tumkur),Bajra,2002,31,123,4018,36922
+Tumakuru (Tumkur),Bajra,2003,27,117,3926,34504
+Tumakuru (Tumkur),Bajra,2004,31,112,3671,37282
+Tumakuru (Tumkur),Bajra,2005,31,126,3821,36065
+Tumakuru (Tumkur),Bajra,2006,27,121,3793,37261
+Tumakuru (Tumkur),Bajra,2007,27,126,2898,34659
+Tumakuru (Tumkur),Bajra,2008,25,130,3741,36320
+Tumakuru (Tumkur),Bajra,2009,26,119,3424,35250
+Tumakuru (Tumkur),Jowar,2000,27,118,3827,30271
+Tumakuru (Tumkur),Jowar,2001,29,125,3914,29062
+Tumakuru (Tumkur),Jowar,2002,27,127,2809,34246
+Tumakuru (Tumkur),Jowar,2003,30,119,3840,31593
+Tumakuru (Tumkur),Jowar,2004,28,121,3773,33355
+Tumakuru (Tumkur),Jowar,2005,27,127,4052,36199
+Tumakuru (Tumkur),Jowar,2006,27,128,3953,33370
+Tumakuru (Tumkur),Jowar,2007,29,118,3093,38697
+Tumakuru (Tumkur),Jowar,2008,30,116,3502,38232
+Tumakuru (Tumkur),Jowar,2009,29,122,3576,30793
+Tumakuru (Tumkur),Arecanut,2009,27,114,3507,29802
+Tumakuru (Tumkur),Arecanut,2010,29,126,4001,35978
+Tumakuru (Tumkur),Arecanut,2011,31,118,3591,34747
+Tumakuru (Tumkur),Arecanut,2012,28,128,3102,30412
+Tumakuru (Tumkur),Arecanut,2013,27,113,3557,38821
+Tumakuru (Tumkur),Arecanut,2014,27,112,3785,30956
+Tumakuru (Tumkur),Arecanut,2015,30,110,3723,30597
+Chikballapur,Arecanut,2016,26,128,3364,34026
+Chikballapur,Arecanut,2017,27,120,3017,28641
+Chikballapur,Arecanut,2018,27,117,3098,36222
+Chikballapur,Maize(Corn),2009,28,121,2991,32798
+Chikballapur,Maize(Corn),2010,27,117,3359,28807
+Chikballapur,Maize(Corn),2011,28,124,4080,37726
+Chikballapur,Maize(Corn),2012,27,124,2805,31837
+Chikballapur,Maize(Corn),2013,27,124,3531,38894
+Chikballapur,Maize(Corn),2014,25,114,2807,29839
+Chikballapur,Maize(Corn),2015,27,111,4001,31086
+Chikballapur,Maize(Corn),2016,29,115,3913,28121
+Chikballapur,Maize(Corn),2017,30,128,2813,30315
+Chikballapur,Maize(Corn),2018,28,111,3933,33237
+Chikballapur,Cotton,2009,30,113,3015,28661
+Chikballapur,Cotton,2010,27,113,3854,34070
+Chikballapur,Cotton,2011,31,123,4018,36922
+Chikballapur,Cotton,2012,27,117,3926,34504
+Chikballapur,Cotton,2013,31,112,3671,37282
+Chikballapur,Cotton,2014,31,126,3821,36065
+Chikballapur,Cotton,2015,27,121,3793,37261
+Chikballapur,Cotton,2016,27,126,2898,34659
+Chikballapur,Cotton,2017,25,130,3741,36320
+Chikballapur,Cotton,2018,26,119,3424,35250
+Chikballapur,Rice,2009,27,118,3827,30271
+Chikballapur,Rice,2010,29,125,3914,29062
+Chikballapur,Rice,2011,27,127,2809,34246
+Chikballapur,Rice,2012,30,119,3840,31593
+Chikballapur,Rice,2013,28,121,3773,33355
+Chikballapur,Rice,2014,27,127,4052,36199
+Chikballapur,Rice,2015,27,128,3953,33370
+Chikballapur,Rice,2016,29,118,3093,38697
+Chikballapur,Rice,2017,30,116,3502,38232
+Chikballapur,Rice,2018,29,122,3576,30793
+Chikballapur,Bajra,2000,27,114,3507,29802
+Chikballapur,Bajra,2001,29,126,4001,35978
+Chikballapur,Bajra,2002,31,118,3591,34747
+Chikballapur,Bajra,2003,28,128,3102,30412
+Chikballapur,Bajra,2004,27,113,3557,38821
+Chikballapur,Bajra,2005,27,112,3785,30956
+Chikballapur,Bajra,2006,30,110,3723,30597
+Chikballapur,Bajra,2007,26,128,3364,34026
+Chikballapur,Bajra,2008,27,120,3017,28641
+Chikballapur,Bajra,2009,27,117,3098,36222
+Chikballapur,Jowar,2000,28,121,2991,32798
+Chikballapur,Jowar,2001,27,117,3359,28807
+Chikballapur,Jowar,2002,28,124,4080,37726
+Koppal,Jowar,2003,27,124,2805,31837
+Koppal,Jowar,2004,27,124,3531,38894
+Koppal,Jowar,2005,25,114,2807,29839
+Koppal,Jowar,2006,27,111,4001,31086
+Koppal,Jowar,2007,29,115,3913,28121
+Koppal,Jowar,2008,30,128,2813,30315
+Koppal,Jowar,2009,28,111,3933,33237
+Koppal,Arecanut,2000,30,113,3015,28661
+Koppal,Arecanut,2001,27,113,3854,34070
+Koppal,Arecanut,2002,31,123,4018,36922
+Koppal,Arecanut,2003,27,117,3926,34504
+Koppal,Arecanut,2004,31,112,3671,37282
+Koppal,Arecanut,2005,31,126,3821,36065
+Koppal,Arecanut,2006,27,121,3793,37261
+Koppal,Arecanut,2007,27,126,2898,34659
+Koppal,Arecanut,2008,25,130,3741,36320
+Koppal,Arecanut,2009,26,119,3424,35250
+Koppal,Maize(Corn),2000,27,118,3827,30271
+Koppal,Maize(Corn),2001,29,125,3914,29062
+Koppal,Maize(Corn),2002,27,127,2809,34246
+Koppal,Maize(Corn),2003,30,119,3840,31593
+Koppal,Maize(Corn),2004,28,121,3773,33355
+Koppal,Maize(Corn),2005,27,127,4052,36199
+Koppal,Maize(Corn),2006,27,128,3953,33370
+Koppal,Maize(Corn),2007,29,118,3093,38697
+Koppal,Maize(Corn),2008,30,116,3502,38232
+Koppal,Maize(Corn),2009,29,122,3576,30793
+Koppal,Cotton,2009,27,114,1456,18230
+Koppal,Cotton,2010,29,126,1644,18334
+Koppal,Cotton,2011,31,118,1686,14035
+Koppal,Cotton,2012,28,128,1420,18138
+Koppal,Cotton,2013,27,113,1669,18403
+Koppal,Cotton,2014,27,112,1545,16477
+Koppal,Cotton,2015,30,110,1672,17522
+Koppal,Cotton,2016,26,128,1780,16700
+Koppal,Cotton,2017,27,120,1601,14108
+Koppal,Cotton,2018,27,117,1502,16769
+Koppal,Rice,2009,28,121,1490,17312
+Koppal,Rice,2010,27,117,1669,15274
+Koppal,Rice,2011,28,124,1456,17896
+Bidar,Rice,2012,27,124,1854,15800
+Bidar,Rice,2013,27,124,1690,15085
+Bidar,Rice,2014,25,114,1812,16346
+Bidar,Rice,2015,27,111,1716,17849
+Bidar,Rice,2016,29,115,1484,15426
+Bidar,Rice,2017,30,128,1818,17894
+Bidar,Rice,2018,28,111,1421,16824
+Bidar,Bajra,2009,30,113,1474,16389
+Bidar,Bajra,2010,27,113,1564,16650
+Bidar,Bajra,2011,31,123,1873,16310
+Bidar,Bajra,2012,27,117,1809,15257
+Bidar,Bajra,2013,31,112,1669,14234
+Bidar,Bajra,2014,31,126,1556,16549
+Bidar,Bajra,2015,27,121,1541,16386
+Bidar,Bajra,2016,27,126,1738,14531
+Bidar,Bajra,2017,25,130,1683,15842
+Bidar,Bajra,2018,26,119,1693,14994
+Bidar,Jowar,2009,27,118,1836,17927
+Bidar,Jowar,2010,29,125,1534,18823
+Bidar,Jowar,2011,27,127,1466,17933
+Bidar,Jowar,2012,30,119,1748,15541
+Bidar,Jowar,2013,28,121,1766,16855
+Bidar,Jowar,2014,27,127,1549,15504
+Bidar,Jowar,2015,27,128,1486,15537
+Bidar,Jowar,2016,29,118,1573,16267
+Bidar,Jowar,2017,30,116,1732,17578
+Bidar,Jowar,2018,29,122,1820,14136
+Bidar,Arecanut,2000,27,114,1699,15879
+Bidar,Arecanut,2001,29,126,1640,14081
+Bidar,Arecanut,2002,31,118,1685,14646
+Bidar,Arecanut,2003,28,128,1680,16030
+Bidar,Arecanut,2004,27,113,1686,18950
+Bidar,Arecanut,2005,27,112,1402,17225
+Bidar,Arecanut,2006,30,110,1667,14472
+Bidar,Arecanut,2007,26,128,1809,17962
+Bidar,Arecanut,2008,27,120,1492,18663
+Bidar,Arecanut,2009,27,117,1709,17712
+Bidar,Maize(Corn),2000,28,121,1811,16035
+Bidar,Maize(Corn),2001,27,117,1759,16377
+Bidar,Maize(Corn),2002,28,124,1763,16061
+Bidar,Maize(Corn),2003,27,124,1565,17468
+Bidar,Maize(Corn),2004,27,124,1873,17868
+Bidar,Maize(Corn),2005,25,114,1592,17297
+Bidar,Maize(Corn),2006,27,111,1496,15384
+Bidar,Maize(Corn),2007,29,115,1570,16388
+Bidar,Maize(Corn),2008,30,128,1426,14249
+Bidar,Maize(Corn),2009,28,111,1691,14745
+Bidar,Cotton,2000,30,113,1542,18918
+Bidar,Cotton,2001,27,113,1550,14294
+Bidar,Cotton,2002,31,123,1500,16002
+Bidar,Cotton,2003,27,117,1663,16308
+Bidar,Cotton,2004,31,112,1720,14896
+Bidar,Cotton,2005,31,126,1796,17391
+Bidar,Cotton,2006,27,121,1824,17484
+Bidar,Cotton,2007,27,126,1683,18821
+Haveri,Cotton,2008,25,130,1539,17779
+Haveri,Cotton,2009,26,119,1578,16057
+Haveri,Rice,2000,27,118,1587,16517
+Haveri,Rice,2001,29,125,1447,16443
+Haveri,Rice,2002,27,127,1570,18695
+Haveri,Rice,2003,30,119,1766,16061
+Haveri,Rice,2004,28,121,1754,14234
+Haveri,Rice,2005,27,127,1727,18592
+Haveri,Rice,2006,27,128,1497,15782
+Haveri,Rice,2007,29,118,1528,16734
+Haveri,Rice,2008,30,116,1814,16322
+Haveri,Rice,2009,29,122,1748,15702
+Haveri,Bajra,2009,27,114,1543,17768
+Haveri,Bajra,2010,29,126,1491,18949
+Haveri,Bajra,2011,31,118,1671,16601
+Haveri,Bajra,2012,28,128,1746,14594
+Haveri,Bajra,2013,27,113,1832,14970
+Haveri,Bajra,2014,27,112,1763,15892
+Haveri,Bajra,2015,30,110,1754,14421
+Haveri,Bajra,2016,26,128,1450,16822
+Haveri,Bajra,2017,27,120,1573,17179
+Haveri,Bajra,2018,27,117,1728,17788
+Haveri,Jowar,2009,28,121,1543,15763
+Haveri,Jowar,2010,27,117,1824,15810
+Haveri,Jowar,2011,28,124,1422,16215
+Haveri,Jowar,2012,27,124,1661,15235
+Haveri,Jowar,2013,27,124,1711,15330
+Haveri,Jowar,2014,25,114,1579,14977
+Haveri,Jowar,2015,27,111,1479,16526
+Haveri,Jowar,2016,29,115,1440,18456
+Haveri,Jowar,2017,30,128,1448,14669
+Haveri,Jowar,2018,28,111,1707,18004
+Haveri,Arecanut,2009,30,113,1511,15149
+Haveri,Arecanut,2010,27,113,1697,14766
+Haveri,Arecanut,2011,31,123,1636,16674
+Haveri,Arecanut,2012,27,117,1587,16302
+Haveri,Arecanut,2013,31,112,1610,15613
+Haveri,Arecanut,2014,31,126,1748,14043
+Haveri,Arecanut,2015,27,121,1733,16064
+Haveri,Arecanut,2016,27,126,1523,16571
+Haveri,Arecanut,2017,25,130,1820,16835
+Haveri,Arecanut,2018,26,119,1648,17290
+Haveri,Maize(Corn),2009,27,118,1676,14133
+Haveri,Maize(Corn),2010,29,125,1703,14703
+Haveri,Maize(Corn),2011,27,127,1811,16670
+Haveri,Maize(Corn),2012,30,119,1606,16594
+Haveri,Maize(Corn),2013,28,121,1769,18792
+Haveri,Maize(Corn),2014,27,127,1830,18170
+Haveri,Maize(Corn),2015,27,128,1492,18836
+Haveri,Maize(Corn),2016,29,118,1737,14069
+Ballari (Bellary),Maize(Corn),2017,30,116,1895,15748
+Ballari (Bellary),Maize(Corn),2018,29,122,1708,15007
+Ballari (Bellary),Cotton,2000,27,114,1732,14248
+Ballari (Bellary),Cotton,2001,29,126,1772,17039
+Ballari (Bellary),Cotton,2002,31,118,1743,18432
+Ballari (Bellary),Cotton,2003,28,128,1781,15061
+Ballari (Bellary),Cotton,2004,27,113,1827,17760
+Ballari (Bellary),Cotton,2005,27,112,1754,16540
+Ballari (Bellary),Cotton,2006,30,110,1774,15792
+Ballari (Bellary),Cotton,2007,26,128,1469,16750
+Ballari (Bellary),Cotton,2008,27,120,1537,15797
+Ballari (Bellary),Cotton,2009,27,117,1764,15653
+Ballari (Bellary),Rice,2000,28,121,1569,17291
+Ballari (Bellary),Rice,2001,27,117,1682,15147
+Ballari (Bellary),Rice,2002,28,124,1606,15746
+Ballari (Bellary),Rice,2003,27,124,1836,15627
+Ballari (Bellary),Rice,2004,27,124,1750,17935
+Ballari (Bellary),Rice,2005,25,114,1600,16973
+Ballari (Bellary),Rice,2006,27,111,1457,14265
+Ballari (Bellary),Rice,2007,29,115,1677,18180
+Ballari (Bellary),Rice,2008,30,128,1610,15283
+Ballari (Bellary),Rice,2009,28,111,1616,14696
+Ballari (Bellary),Bajra,2000,30,113,1424,16727
+Ballari (Bellary),Bajra,2001,27,113,1470,17665
+Ballari (Bellary),Bajra,2002,31,123,1535,16142
+Ballari (Bellary),Bajra,2003,27,117,1544,17541
+Ballari (Bellary),Bajra,2004,31,112,1548,17814
+Ballari (Bellary),Bajra,2005,31,126,1825,14144
+Ballari (Bellary),Bajra,2006,27,121,1835,16294
+Ballari (Bellary),Bajra,2007,27,126,1710,16418
+Ballari (Bellary),Bajra,2008,25,130,1806,17974
+Ballari (Bellary),Bajra,2009,26,119,1850,14682
+Ballari (Bellary),Jowar,2000,27,118,1854,17395
+Ballari (Bellary),Jowar,2001,29,125,1693,17478
+Ballari (Bellary),Jowar,2002,27,127,1492,17638
+Ballari (Bellary),Jowar,2003,30,119,1793,18038
+Ballari (Bellary),Jowar,2004,28,121,1432,15586
+Ballari (Bellary),Jowar,2005,27,127,1426,15765
+Ballari (Bellary),Jowar,2006,27,128,1832,16517
+Ballari (Bellary),Jowar,2007,29,118,1872,18674
+Ballari (Bellary),Jowar,2008,30,116,1595,17161
+Ballari (Bellary),Jowar,2009,29,122,1668,17676
+Ballari (Bellary),Arecanut,2009,27,114,6771,24268
+Ballari (Bellary),Arecanut,2010,29,126,11502,25903
+Ballari (Bellary),Arecanut,2011,31,118,7696,26083
+Ballari (Bellary),Arecanut,2012,28,128,6040,29737
+Shivamogga (Shimoga),Arecanut,2013,27,113,7673,22299
+Shivamogga (Shimoga),Arecanut,2014,27,112,10506,22800
+Shivamogga (Shimoga),Arecanut,2015,30,110,8551,26984
+Shivamogga (Shimoga),Arecanut,2016,26,128,6200,30615
+Shivamogga (Shimoga),Arecanut,2017,27,120,11515,25748
+Shivamogga (Shimoga),Arecanut,2018,27,117,11094,27374
+Shivamogga (Shimoga),Maize(Corn),2009,28,121,6842,31251
+Shivamogga (Shimoga),Maize(Corn),2010,27,117,10530,30598
+Shivamogga (Shimoga),Maize(Corn),2011,28,124,9578,30327
+Shivamogga (Shimoga),Maize(Corn),2012,27,124,10753,28547
+Shivamogga (Shimoga),Maize(Corn),2013,27,124,6392,28446
+Shivamogga (Shimoga),Maize(Corn),2014,25,114,6768,26632
+Shivamogga (Shimoga),Maize(Corn),2015,27,111,11779,27496
+Shivamogga (Shimoga),Maize(Corn),2016,29,115,6040,25916
+Shivamogga (Shimoga),Maize(Corn),2017,30,128,9413,31784
+Shivamogga (Shimoga),Maize(Corn),2018,28,111,6541,23263
+Shivamogga (Shimoga),Cotton,2009,30,113,7824,25656
+Shivamogga (Shimoga),Cotton,2010,27,113,9337,23488
+Shivamogga (Shimoga),Cotton,2011,31,123,11568,22474
+Shivamogga (Shimoga),Cotton,2012,27,117,7507,25017
+Shivamogga (Shimoga),Cotton,2013,31,112,6962,31802
+Shivamogga (Shimoga),Cotton,2014,31,126,6423,29948
+Shivamogga (Shimoga),Cotton,2015,27,121,9360,23259
+Shivamogga (Shimoga),Cotton,2016,27,126,10775,23459
+Shivamogga (Shimoga),Cotton,2017,25,130,6404,28406
+Shivamogga (Shimoga),Cotton,2018,26,119,6153,25166
+Shivamogga (Shimoga),Rice,2009,27,118,9996,30389
+Shivamogga (Shimoga),Rice,2010,29,125,8408,30026
+Shivamogga (Shimoga),Rice,2011,27,127,11396,26328
+Shivamogga (Shimoga),Rice,2012,30,119,10718,25256
+Shivamogga (Shimoga),Rice,2013,28,121,6983,25619
+Shivamogga (Shimoga),Rice,2014,27,127,9029,23034
+Shivamogga (Shimoga),Rice,2015,27,128,9770,24284
+Shivamogga (Shimoga),Rice,2016,29,118,6710,27166
+Shivamogga (Shimoga),Rice,2017,30,116,9387,22205
+Shivamogga (Shimoga),Rice,2018,29,122,10381,23494
+Shivamogga (Shimoga),Bajra,2000,27,114,7917,23442
+Shivamogga (Shimoga),Bajra,2001,29,126,7042,22570
+Shivamogga (Shimoga),Bajra,2002,31,118,6255,23677
+Shivamogga (Shimoga),Bajra,2003,28,128,8823,29124
+Shivamogga (Shimoga),Bajra,2004,27,113,11783,27958
+Shivamogga (Shimoga),Bajra,2005,27,112,8704,28354
+Shivamogga (Shimoga),Bajra,2006,30,110,8345,31521
+Shivamogga (Shimoga),Bajra,2007,26,128,6918,28070
+Shivamogga (Shimoga),Bajra,2008,27,120,10762,28535
+Shivamogga (Shimoga),Bajra,2009,27,117,6563,28936
+Shivamogga (Shimoga),Jowar,2000,28,121,8323,30425
+Shivamogga (Shimoga),Jowar,2001,27,117,8999,29745
+Shivamogga (Shimoga),Jowar,2002,28,124,9688,26650
+Shivamogga (Shimoga),Jowar,2003,27,124,9979,22434
+Shivamogga (Shimoga),Jowar,2004,27,124,11216,28258
+Shivamogga (Shimoga),Jowar,2005,25,114,10898,28406
+Shivamogga (Shimoga),Jowar,2006,27,111,8356,30934
+Shivamogga (Shimoga),Jowar,2007,29,115,10853,22163
+Shivamogga (Shimoga),Jowar,2008,30,128,11282,25511
+Shivamogga (Shimoga),Jowar,2009,28,111,9174,26314
+Shivamogga (Shimoga),Arecanut,2000,30,113,10812,29183
+Shivamogga (Shimoga),Arecanut,2001,27,113,10648,28501
+Shivamogga (Shimoga),Arecanut,2002,31,123,9384,29520
+Shivamogga (Shimoga),Arecanut,2003,27,117,11549,25827
+Chitradurga,Arecanut,2004,31,112,7185,26183
+Chitradurga,Arecanut,2005,31,126,10712,22835
+Chitradurga,Arecanut,2006,27,121,6954,28837
+Chitradurga,Arecanut,2007,27,126,6152,26449
+Chitradurga,Arecanut,2008,25,130,7773,29833
+Chitradurga,Arecanut,2009,26,119,8103,26522
+Chitradurga,Maize(Corn),2000,27,118,7544,24864
+Chitradurga,Maize(Corn),2001,29,125,7605,27812
+Chitradurga,Maize(Corn),2002,27,127,6385,24325
+Chitradurga,Maize(Corn),2003,30,119,11314,23703
+Chitradurga,Maize(Corn),2004,28,121,10487,28868
+Chitradurga,Maize(Corn),2005,27,127,6940,23054
+Chitradurga,Maize(Corn),2006,27,128,11596,27078
+Chitradurga,Maize(Corn),2007,29,118,10682,29527
+Chitradurga,Maize(Corn),2008,30,116,11406,24021
+Chitradurga,Maize(Corn),2009,29,122,8262,30051
+Chitradurga,Cotton,2009,27,114,6365,30882
+Chitradurga,Cotton,2010,29,126,10206,25222
+Chitradurga,Cotton,2011,31,118,8784,23693
+Chitradurga,Cotton,2012,28,128,9235,29897
+Chitradurga,Cotton,2013,27,113,9471,29441
+Chitradurga,Cotton,2014,27,112,10801,24194
+Chitradurga,Cotton,2015,30,110,11422,23527
+Chitradurga,Cotton,2016,26,128,11100,25527
+Chitradurga,Cotton,2017,27,120,8429,23497
+Chitradurga,Cotton,2018,27,117,11658,24886
+Chitradurga,Rice,2009,28,121,8109,23762
+Chitradurga,Rice,2010,27,117,11568,28027
+Chitradurga,Rice,2011,28,124,9902,29245
+Chitradurga,Rice,2012,27,124,6706,23268
+Chitradurga,Rice,2013,27,124,8648,29723
+Chitradurga,Rice,2014,25,114,11369,25017
+Chitradurga,Rice,2015,27,111,9378,31605
+Chitradurga,Rice,2016,29,115,10874,29635
+Chitradurga,Rice,2017,30,128,8047,26328
+Chitradurga,Rice,2018,28,111,8141,30009
+Chitradurga,Bajra,2009,30,113,8950,23109
+Chitradurga,Bajra,2010,27,113,8851,24612
+Chitradurga,Bajra,2011,31,123,11023,28768
+Chitradurga,Bajra,2012,27,117,6356,24333
+Kodagu,Bajra,2013,31,112,7566,29170
+Kodagu,Bajra,2014,31,126,8775,25112
+Kodagu,Bajra,2015,27,121,6733,28824
+Kodagu,Bajra,2016,27,126,8325,24083
+Kodagu,Bajra,2017,25,130,7715,29651
+Kodagu,Bajra,2018,26,119,8177,24191
+Kodagu,Jowar,2009,27,118,11498,22907
+Kodagu,Jowar,2010,29,125,10546,30024
+Kodagu,Jowar,2011,27,127,7397,30020
+Kodagu,Jowar,2012,30,119,11166,31619
+Kodagu,Jowar,2013,28,121,10062,30436
+Kodagu,Jowar,2014,27,127,11704,29791
+Kodagu,Jowar,2015,27,128,10882,27824
+Kodagu,Jowar,2016,29,118,10714,26668
+Kodagu,Jowar,2017,30,116,9834,28820
+Kodagu,Jowar,2018,29,122,10215,23213
+Kodagu,Arecanut,2000,27,114,6557,26415
+Kodagu,Arecanut,2001,29,126,8092,24793
+Kodagu,Arecanut,2002,31,118,11742,27941
+Kodagu,Arecanut,2003,28,128,8033,28302
+Kodagu,Arecanut,2004,27,113,6036,23389
+Kodagu,Arecanut,2005,27,112,7993,23479
+Kodagu,Arecanut,2006,30,110,6108,23873
+Kodagu,Arecanut,2007,26,128,7397,30656
+Kodagu,Arecanut,2008,27,120,8412,26815
+Kodagu,Arecanut,2009,27,117,7835,30977
+Kodagu,Maize(Corn),2000,28,121,9102,31015
+Kodagu,Maize(Corn),2001,27,117,11392,25864
+Kodagu,Maize(Corn),2002,28,124,8750,23936
+Kodagu,Maize(Corn),2003,27,124,9264,30248
+Kodagu,Maize(Corn),2004,27,124,10083,26782
+Kodagu,Maize(Corn),2005,25,114,9913,24347
+Kodagu,Maize(Corn),2006,27,111,8624,23931
+Kodagu,Maize(Corn),2007,29,115,10081,22112
+Kodagu,Maize(Corn),2008,30,128,9335,26905
+Kodagu,Maize(Corn),2009,28,111,10722,31124
+Kodagu,Cotton,2000,30,113,8247,24739
+Kodagu,Cotton,2001,27,113,10142,23039
+Kodagu,Cotton,2002,31,123,11081,29322
+Kodagu,Cotton,2003,27,117,6776,27549
+Kodagu,Cotton,2004,31,112,11015,29180
+Kodagu,Cotton,2005,31,126,6341,28851
+Kodagu,Cotton,2006,27,121,8855,22544
+Kodagu,Cotton,2007,27,126,6996,22768
+Kodagu,Cotton,2008,25,130,11328,29479
+Kodagu,Cotton,2009,26,119,9191,28689
+Kodagu,Rice,2000,27,118,11698,24138
+Kodagu,Rice,2001,29,125,9291,24022
+Kodagu,Rice,2002,27,127,8600,23841
+Kodagu,Rice,2003,30,119,10842,28345
+Dakshina Kannada,Rice,2004,28,121,10270,29205
+Dakshina Kannada,Rice,2005,27,127,9808,24073
+Dakshina Kannada,Rice,2006,27,128,6551,22435
+Dakshina Kannada,Rice,2007,29,118,8775,24135
+Dakshina Kannada,Rice,2008,30,116,10890,28676
+Dakshina Kannada,Rice,2009,29,122,8146,27023
+Dakshina Kannada,Bajra,2009,27,114,3003,27330
+Dakshina Kannada,Bajra,2010,29,126,3380,29182
+Dakshina Kannada,Bajra,2011,31,118,3968,27799
+Dakshina Kannada,Bajra,2012,28,128,3546,29792
+Dakshina Kannada,Bajra,2013,27,113,3318,28329
+Dakshina Kannada,Bajra,2014,27,112,3580,29589
+Dakshina Kannada,Bajra,2015,30,110,3347,29988
+Dakshina Kannada,Bajra,2016,26,128,3149,28052
+Dakshina Kannada,Bajra,2017,27,120,3217,29646
+Dakshina Kannada,Bajra,2018,27,117,3767,28608
+Dakshina Kannada,Jowar,2009,28,121,4003,29660
+Dakshina Kannada,Jowar,2010,27,117,3434,27058
+Dakshina Kannada,Jowar,2011,28,124,3847,29435
+Dakshina Kannada,Jowar,2012,27,124,4002,30666
+Dakshina Kannada,Jowar,2013,27,124,3355,30325
+Dakshina Kannada,Jowar,2014,25,114,3022,30890
+Dakshina Kannada,Jowar,2015,27,111,3720,30293
+Dakshina Kannada,Jowar,2016,29,115,3025,30537
+Dakshina Kannada,Jowar,2017,30,128,4064,27325
+Dakshina Kannada,Jowar,2018,28,111,2914,30076
+Davangere,Arecanut,2009,30,113,3664,28348
+Davangere,Arecanut,2010,27,113,4022,29115
+Davangere,Arecanut,2011,31,123,3535,29140
+Davangere,Arecanut,2012,27,117,3760,30939
+Davangere,Arecanut,2013,31,112,3216,27611
+Davangere,Arecanut,2014,31,126,3534,30074
+Davangere,Arecanut,2015,27,121,3991,27805
+Davangere,Arecanut,2016,27,126,3075,30709
+Davangere,Arecanut,2017,25,130,2802,27418
+Davangere,Arecanut,2018,26,119,3763,27429
+Davangere,Maize(Corn),2009,27,118,3195,28018
+Davangere,Maize(Corn),2010,29,125,3088,30896
+Davangere,Maize(Corn),2011,27,127,4076,28186
+Davangere,Maize(Corn),2012,30,119,3444,30683
+Davangere,Maize(Corn),2013,28,121,3278,28655
+Davangere,Maize(Corn),2014,27,127,3887,28208
+Davangere,Maize(Corn),2015,27,128,3414,30552
+Davangere,Maize(Corn),2016,29,118,3495,28887
+Davangere,Maize(Corn),2017,30,116,3730,28546
+Davangere,Maize(Corn),2018,29,122,3312,28168
+Davangere,Cotton,2000,27,114,3003,27330
+Davangere,Cotton,2001,29,126,3380,29182
+Davangere,Cotton,2002,31,118,3968,27799
+Davangere,Cotton,2003,28,128,3546,29792
+Davangere,Cotton,2004,27,113,3318,28329
+Davangere,Cotton,2005,27,112,3580,29589
+Davangere,Cotton,2006,30,110,3347,29988
+Davangere,Cotton,2007,26,128,3149,28052
+Davangere,Cotton,2008,27,120,3217,29646
+Davangere,Cotton,2009,27,117,3767,28608
+Davangere,Rice,2000,28,121,4003,29660
+Davangere,Rice,2001,27,117,3434,27058
+Davangere,Rice,2002,28,124,3847,29435
+Davangere,Rice,2003,27,124,4002,30666
+Davangere,Rice,2004,27,124,3355,30325
+Davangere,Rice,2005,25,114,3022,30890
+Davangere,Rice,2006,27,111,3720,30293
+Davangere,Rice,2007,29,115,3025,30537
+Davangere,Rice,2008,30,128,4064,27325
+Davangere,Rice,2009,28,111,2914,30076
+Davangere,Bajra,2000,30,113,3664,28348
+Davangere,Bajra,2001,27,113,4022,29115
+Davangere,Bajra,2002,31,123,3535,29140
+Davangere,Bajra,2003,27,117,3760,30939
+Davangere,Bajra,2004,31,112,3216,27611
+Davangere,Bajra,2005,31,126,3534,30074
+Davangere,Bajra,2006,27,121,3991,27805
+Davangere,Bajra,2007,27,126,3075,30709
+Davangere,Bajra,2008,25,130,2802,27418
+Davangere,Bajra,2009,26,119,3763,27429
+Davangere,Jowar,2000,27,118,3195,28018
+Davangere,Jowar,2001,29,125,3088,30896
+Davangere,Jowar,2002,27,127,4076,28186
+Davangere,Jowar,2003,30,119,3444,30683
+Davangere,Jowar,2004,28,121,3278,28655
+Davangere,Jowar,2005,27,127,3887,28208
+Davangere,Jowar,2006,27,128,3414,30552
+Davangere,Jowar,2007,29,118,3495,28887
+Davangere,Jowar,2008,30,116,3730,28546
+Davangere,Jowar,2009,29,122,3312,28168
+Davangere,Arecanut,2009,27,114,3003,27330
+Davangere,Arecanut,2010,29,126,3380,29182
+Davangere,Arecanut,2011,31,118,3968,27799
+Davangere,Arecanut,2012,28,128,3546,29792
+Davangere,Arecanut,2013,27,113,3318,28329
+Davangere,Arecanut,2014,27,112,3580,29589
+Davangere,Arecanut,2015,30,110,3347,29988
+Davangere,Arecanut,2016,26,128,3149,28052
+Dharwad,Arecanut,2017,27,120,3217,29646
+Dharwad,Arecanut,2018,27,117,3767,28608
+Dharwad,Maize(Corn),2009,28,121,4003,29660
+Dharwad,Maize(Corn),2010,27,117,3434,27058
+Dharwad,Maize(Corn),2011,28,124,3847,29435
+Dharwad,Maize(Corn),2012,27,124,4002,30666
+Dharwad,Maize(Corn),2013,27,124,3355,30325
+Dharwad,Maize(Corn),2014,25,114,3022,30890
+Dharwad,Maize(Corn),2015,27,111,3720,30293
+Dharwad,Maize(Corn),2016,29,115,3025,30537
+Dharwad,Maize(Corn),2017,30,128,4064,27325
+Dharwad,Maize(Corn),2018,28,111,2914,30076
+Dharwad,Cotton,2009,30,113,3664,28348
+Dharwad,Cotton,2010,27,113,4022,29115
+Dharwad,Cotton,2011,31,123,3535,29140
+Dharwad,Cotton,2012,27,117,3760,30939
+Dharwad,Cotton,2013,31,112,3216,27611
+Dharwad,Cotton,2014,31,126,3534,30074
+Dharwad,Cotton,2015,27,121,3991,27805
+Dharwad,Cotton,2016,27,126,3075,30709
+Dharwad,Cotton,2017,25,130,2802,27418
+Dharwad,Cotton,2018,26,119,3763,27429
+Dharwad,Rice,2009,27,118,3195,28018
+Dharwad,Rice,2010,29,125,3088,30896
+Dharwad,Rice,2011,27,127,4076,28186
+Dharwad,Rice,2012,30,119,3444,30683
+Dharwad,Rice,2013,28,121,3278,28655
+Dharwad,Rice,2014,27,127,3887,28208
+Dharwad,Rice,2015,27,128,3414,30552
+Dharwad,Rice,2016,29,118,3495,28887
+Dharwad,Rice,2017,30,116,3730,28546
+Dharwad,Rice,2018,29,122,3312,28168
+Dharwad,Bajra,2000,27,114,3377,30599
+Dharwad,Bajra,2001,29,126,3059,28445
+Dharwad,Bajra,2002,31,118,3298,27413
+Dharwad,Bajra,2003,28,128,3203,29345
+Dharwad,Bajra,2004,27,113,4034,27296
+Dharwad,Bajra,2005,27,112,3194,29250
+Dharwad,Bajra,2006,30,110,3366,28603
+Dharwad,Bajra,2007,26,128,2889,28671
+Dharwad,Bajra,2008,27,120,3086,29567
+Dharwad,Bajra,2009,27,117,3449,29544
+Dharwad,Jowar,2000,28,121,4003,29660
+Dharwad,Jowar,2001,27,117,3434,27058
+Dharwad,Jowar,2002,28,124,3847,29435
+Dharwad,Jowar,2003,27,124,4002,30666
+Dharwad,Jowar,2004,27,124,3355,30325
+Dharwad,Jowar,2005,25,114,3022,30890
+Dharwad,Jowar,2006,27,111,3720,30293
+Dharwad,Jowar,2007,29,115,3025,30537
+Dharwad,Jowar,2008,30,128,4064,27325
+Dharwad,Jowar,2009,28,111,2914,30076
+Kolar,Arecanut,2000,30,113,3311,27836
+Kolar,Arecanut,2001,27,113,3048,28170
+Kolar,Arecanut,2002,31,123,3129,29280
+Kolar,Arecanut,2003,27,117,3513,27282
+Kolar,Arecanut,2004,31,112,3135,29575
+Kolar,Arecanut,2005,31,126,3909,28527
+Kolar,Arecanut,2006,27,121,3954,27965
+Kolar,Arecanut,2007,27,126,2900,29250
+Kolar,Arecanut,2008,25,130,3420,27997
+Kolar,Arecanut,2009,26,119,2843,27244
+Kolar,Maize(Corn),2000,27,118,3971,29690
+Kolar,Maize(Corn),2001,29,125,3255,28464
+Kolar,Maize(Corn),2002,27,127,3589,30175
+Kolar,Maize(Corn),2003,30,119,3753,29666
+Kolar,Maize(Corn),2004,28,121,3476,28883
+Kolar,Maize(Corn),2005,27,127,3557,27157
+Kolar,Maize(Corn),2006,27,128,3628,29788
+Kolar,Maize(Corn),2007,29,118,3548,27410
+Kolar,Maize(Corn),2008,30,116,3299,29400
+Kolar,Maize(Corn),2009,29,122,3562,30935
+Kolar,Cotton,2009,27,114,3507,29802
+Kolar,Cotton,2010,29,126,4001,35978
+Kolar,Cotton,2011,31,118,3591,34747
+Kolar,Cotton,2012,28,128,3102,30412
+Kolar,Cotton,2013,27,113,3557,38821
+Kolar,Cotton,2014,27,112,3785,30956
+Kolar,Cotton,2015,30,110,3723,30597
+Kolar,Cotton,2016,26,128,3364,34026
+Kolar,Cotton,2017,27,120,3017,28641
+Kolar,Cotton,2018,27,117,3098,36222
+Kolar,Rice,2009,28,121,2991,32798
+Kolar,Rice,2010,27,117,3359,28807
+Kolar,Rice,2011,28,124,4080,37726
+Kolar,Rice,2012,27,124,2805,31837
+Kolar,Rice,2013,27,124,3531,38894
+Kolar,Rice,2014,25,114,2807,29839
+Kolar,Rice,2015,27,111,4001,31086
+Kolar,Rice,2016,29,115,3913,28121
+Kolar,Rice,2017,30,128,2813,30315
+Kolar,Rice,2018,28,111,3933,33237
+Kolar,Bajra,2009,30,113,3015,28661
+Kolar,Bajra,2010,27,113,3854,34070
+Kolar,Bajra,2011,31,123,4018,36922
+Kolar,Bajra,2012,27,117,3926,34504
+Kolar,Bajra,2013,31,112,3671,37282
+Kolar,Bajra,2014,31,126,3821,36065
+Kolar,Bajra,2015,27,121,3793,37261
+Kolar,Bajra,2016,27,126,2898,34659
+Kolar,Bajra,2017,25,130,3741,36320
+Kolar,Bajra,2018,26,119,3424,35250
+Kolar,Jowar,2009,27,118,3827,30271
+Kolar,Jowar,2010,29,125,3914,29062
+Kolar,Jowar,2011,27,127,2809,34246
+Kolar,Jowar,2012,30,119,3840,31593
+Kolar,Jowar,2013,28,121,3773,33355
+Kolar,Jowar,2014,27,127,4052,36199
+Kolar,Jowar,2015,27,128,3953,33370
+Kolar,Jowar,2016,29,118,3093,38697
+Kolar,Jowar,2017,30,116,3502,38232
+Kolar,Jowar,2018,29,122,3576,30793
+Kolar,Arecanut,2000,27,114,3507,29802
+Kolar,Arecanut,2001,29,126,4001,35978
+Hassan,Arecanut,2002,31,118,3591,34747
+Hassan,Arecanut,2003,28,128,3102,30412
+Hassan,Arecanut,2004,27,113,3557,38821
+Hassan,Arecanut,2005,27,112,3785,30956
+Hassan,Arecanut,2006,30,110,3723,30597
+Hassan,Arecanut,2007,26,128,3364,34026
+Hassan,Arecanut,2008,27,120,3017,28641
+Hassan,Arecanut,2009,27,117,3098,36222
+Hassan,Maize(Corn),2000,28,121,2991,32798
+Hassan,Maize(Corn),2001,27,117,3359,28807
+Hassan,Maize(Corn),2002,28,124,4080,37726
+Hassan,Maize(Corn),2003,27,124,2805,31837
+Hassan,Maize(Corn),2004,27,124,3531,38894
+Hassan,Maize(Corn),2005,25,114,2807,29839
+Hassan,Maize(Corn),2006,27,111,4001,31086
+Hassan,Maize(Corn),2007,29,115,3913,28121
+Hassan,Maize(Corn),2008,30,128,2813,30315
+Hassan,Maize(Corn),2009,28,111,3933,33237
+Hassan,Cotton,2000,30,113,3015,28661
+Hassan,Cotton,2001,27,113,3854,34070
+Hassan,Cotton,2002,31,123,4018,36922
+Hassan,Cotton,2003,27,117,3926,34504
+Hassan,Cotton,2004,31,112,3671,37282
+Hassan,Cotton,2005,31,126,3821,36065
+Hassan,Cotton,2006,27,121,3793,37261
+Hassan,Cotton,2007,27,126,2898,34659
+Hassan,Cotton,2008,25,130,3741,36320
+Hassan,Cotton,2009,26,119,3424,35250
+Hassan,Rice,2000,27,118,3827,30271
+Hassan,Rice,2001,29,125,3914,29062
+Hassan,Rice,2002,27,127,2809,34246
+Hassan,Rice,2003,30,119,3840,31593
+Hassan,Rice,2004,28,121,3773,33355
+Hassan,Rice,2005,27,127,4052,36199
+Hassan,Rice,2006,27,128,3953,33370
+Hassan,Rice,2007,29,118,3093,38697
+Hassan,Rice,2008,30,116,3502,38232
+Hassan,Rice,2009,29,122,3576,30793
+Hassan,Bajra,2009,27,114,3507,29802
+Hassan,Bajra,2010,29,126,4001,35978
+Hassan,Bajra,2011,31,118,3591,34747
+Kalaburagi (Gulbarga),Bajra,2012,28,128,3102,30412
+Kalaburagi (Gulbarga),Bajra,2013,27,113,3557,38821
+Kalaburagi (Gulbarga),Bajra,2014,27,112,3785,30956
+Kalaburagi (Gulbarga),Bajra,2015,30,110,3723,30597
+Kalaburagi (Gulbarga),Bajra,2016,26,128,3364,34026
+Kalaburagi (Gulbarga),Bajra,2017,27,120,3017,28641
+Kalaburagi (Gulbarga),Bajra,2018,27,117,3098,36222
+Kalaburagi (Gulbarga),Jowar,2009,28,121,2991,32798
+Kalaburagi (Gulbarga),Jowar,2010,27,117,3359,28807
+Kalaburagi (Gulbarga),Jowar,2011,28,124,4080,37726
+Kalaburagi (Gulbarga),Jowar,2012,27,124,2805,31837
+Kalaburagi (Gulbarga),Jowar,2013,27,124,3531,38894
+Kalaburagi (Gulbarga),Jowar,2014,25,114,2807,29839
+Kalaburagi (Gulbarga),Jowar,2015,27,111,4001,31086
+Kalaburagi (Gulbarga),Jowar,2016,29,115,3913,28121
+Kalaburagi (Gulbarga),Jowar,2017,30,128,2813,30315
+Kalaburagi (Gulbarga),Jowar,2018,28,111,3933,33237
+Kalaburagi (Gulbarga),Arecanut,2009,30,113,3015,28661
+Kalaburagi (Gulbarga),Arecanut,2010,27,113,3854,34070
+Kalaburagi (Gulbarga),Arecanut,2011,31,123,4018,36922
+Kalaburagi (Gulbarga),Arecanut,2012,27,117,3926,34504
+Kalaburagi (Gulbarga),Arecanut,2013,31,112,3671,37282
+Kalaburagi (Gulbarga),Arecanut,2014,31,126,3821,36065
+Kalaburagi (Gulbarga),Arecanut,2015,27,121,3793,37261
+Kalaburagi (Gulbarga),Arecanut,2016,27,126,2898,34659
+Kalaburagi (Gulbarga),Arecanut,2017,25,130,3741,36320
+Kalaburagi (Gulbarga),Arecanut,2018,26,119,3424,35250
+Kalaburagi (Gulbarga),Maize(Corn),2009,27,118,3827,30271
+Kalaburagi (Gulbarga),Maize(Corn),2010,29,125,3914,29062
+Kalaburagi (Gulbarga),Maize(Corn),2011,27,127,2809,34246
+Kalaburagi (Gulbarga),Maize(Corn),2012,30,119,3840,31593
+Kalaburagi (Gulbarga),Maize(Corn),2013,28,121,3773,33355
+Kalaburagi (Gulbarga),Maize(Corn),2014,27,127,4052,36199
+Kalaburagi (Gulbarga),Maize(Corn),2015,27,128,3953,33370
+Kalaburagi (Gulbarga),Maize(Corn),2016,29,118,3093,38697
+Kalaburagi (Gulbarga),Maize(Corn),2017,30,116,3502,38232
+Kalaburagi (Gulbarga),Maize(Corn),2018,29,122,3576,30793
+Kalaburagi (Gulbarga),Cotton,2000,27,114,3507,29802
+Kalaburagi (Gulbarga),Cotton,2001,29,126,4001,35978
+Kalaburagi (Gulbarga),Cotton,2002,31,118,3591,34747
+Kalaburagi (Gulbarga),Cotton,2003,28,128,3102,30412
+Kalaburagi (Gulbarga),Cotton,2004,27,113,3557,38821
+Kalaburagi (Gulbarga),Cotton,2005,27,112,3785,30956
+Kalaburagi (Gulbarga),Cotton,2006,30,110,3723,30597
+Kalaburagi (Gulbarga),Cotton,2007,26,128,3364,34026
+Kalaburagi (Gulbarga),Cotton,2008,27,120,3017,28641
+Kalaburagi (Gulbarga),Cotton,2009,27,117,3098,36222
+Kalaburagi (Gulbarga),Rice,2000,28,121,2991,32798
+Kalaburagi (Gulbarga),Rice,2001,27,117,3359,28807
+Kalaburagi (Gulbarga),Rice,2002,28,124,4080,37726
+Kalaburagi (Gulbarga),Rice,2003,27,124,2805,31837
+Kalaburagi (Gulbarga),Rice,2004,27,124,3531,38894
+Kalaburagi (Gulbarga),Rice,2005,25,114,2807,29839
+Kalaburagi (Gulbarga),Rice,2006,27,111,4001,31086
+Kalaburagi (Gulbarga),Rice,2007,29,115,3913,28121
+Kalaburagi (Gulbarga),Rice,2008,30,128,2813,30315
+Kalaburagi (Gulbarga),Rice,2009,28,111,3933,33237
+Kalaburagi (Gulbarga),Bajra,2000,30,113,3015,28661
+Kalaburagi (Gulbarga),Bajra,2001,27,113,3854,34070
+Kalaburagi (Gulbarga),Bajra,2002,31,123,4018,36922
+Kalaburagi (Gulbarga),Bajra,2003,27,117,3926,34504
+Mandya,Bajra,2004,31,112,3671,37282
+Mandya,Bajra,2005,31,126,3821,36065
+Mandya,Bajra,2006,27,121,3793,37261
+Mandya,Bajra,2007,27,126,2898,34659
+Mandya,Bajra,2008,25,130,3741,36320
+Mandya,Bajra,2009,26,119,3424,35250
+Mandya,Jowar,2000,27,118,3827,30271
+Mandya,Jowar,2001,29,125,3914,29062
+Mandya,Jowar,2002,27,127,2809,34246
+Mandya,Jowar,2003,30,119,3840,31593
+Mandya,Jowar,2004,28,121,3773,33355
+Mandya,Jowar,2005,27,127,4052,36199
+Mandya,Jowar,2006,27,128,3953,33370
+Mandya,Jowar,2007,29,118,3093,38697
+Mandya,Jowar,2008,30,116,3502,38232
+Mandya,Jowar,2009,29,122,3576,30793
+Mandya,Arecanut,2009,27,114,1456,18230
+Mandya,Arecanut,2010,29,126,1644,18334
+Mandya,Arecanut,2011,31,118,1686,14035
+Mandya,Arecanut,2012,28,128,1420,18138
+Mandya,Arecanut,2013,27,113,1669,18403
+Mandya,Arecanut,2014,27,112,1545,16477
+Mandya,Arecanut,2015,30,110,1672,17522
+Mandya,Arecanut,2016,26,128,1780,16700
+Mandya,Arecanut,2017,27,120,1601,14108
+Mandya,Arecanut,2018,27,117,1502,16769
+Mandya,Maize(Corn),2009,28,121,1490,17312
+Mandya,Maize(Corn),2010,27,117,1669,15274
+Mandya,Maize(Corn),2011,28,124,1456,17896
+Mandya,Maize(Corn),2012,27,124,1854,15800
+Mandya,Maize(Corn),2013,27,124,1690,15085
+Mandya,Maize(Corn),2014,25,114,1812,16346
+Mandya,Maize(Corn),2015,27,111,1716,17849
+Mandya,Maize(Corn),2016,29,115,1484,15426
+Mandya,Maize(Corn),2017,30,128,1818,17894
+Mandya,Maize(Corn),2018,28,111,1421,16824
+Mandya,Cotton,2009,30,113,1474,16389
+Mandya,Cotton,2010,27,113,1564,16650
+Mandya,Cotton,2011,31,123,1873,16310
+Mandya,Cotton,2012,27,117,1809,15257
+Mandya,Cotton,2013,31,112,1669,14234
+Mandya,Cotton,2014,31,126,1556,16549
+Mandya,Cotton,2015,27,121,1541,16386
+Mandya,Cotton,2016,27,126,1738,14531
+Mandya,Cotton,2017,25,130,1683,15842
+Mandya,Cotton,2018,26,119,1693,14994
+Mandya,Rice,2009,27,118,1836,17927
+Mandya,Rice,2010,29,125,1534,18823
+Mandya,Rice,2011,27,127,1466,17933
+Mandya,Rice,2012,30,119,1748,15541
+Mandya,Rice,2013,28,121,1766,16855
+Mandya,Rice,2014,27,127,1549,15504
+Mandya,Rice,2015,27,128,1486,15537
+Mandya,Rice,2016,29,118,1573,16267
+Mandya,Rice,2017,30,116,1732,17578
+Mandya,Rice,2018,29,122,1820,14136
+Mandya,Bajra,2000,27,114,1699,15879
+Raichur,Bajra,2001,29,126,1640,14081
+Raichur,Bajra,2002,31,118,1685,14646
+Raichur,Bajra,2003,28,128,1680,16030
+Raichur,Bajra,2004,27,113,1686,18950
+Raichur,Bajra,2005,27,112,1402,17225
+Raichur,Bajra,2006,30,110,1667,14472
+Raichur,Bajra,2007,26,128,1809,17962
+Raichur,Bajra,2008,27,120,1492,18663
+Raichur,Bajra,2009,27,117,1709,17712
+Raichur,Jowar,2000,28,121,1811,16035
+Raichur,Jowar,2001,27,117,1759,16377
+Raichur,Jowar,2002,28,124,1763,16061
+Raichur,Jowar,2003,27,124,1565,17468
+Raichur,Jowar,2004,27,124,1873,17868
+Raichur,Jowar,2005,25,114,1592,17297
+Raichur,Jowar,2006,27,111,1496,15384
+Raichur,Jowar,2007,29,115,1570,16388
+Raichur,Jowar,2008,30,128,1426,14249
+Raichur,Jowar,2009,28,111,1691,14745
+Raichur,Arecanut,2000,30,113,1542,18918
+Raichur,Arecanut,2001,27,113,1550,14294
+Raichur,Arecanut,2002,31,123,1500,16002
+Raichur,Arecanut,2003,27,117,1663,16308
+Raichur,Arecanut,2004,31,112,1720,14896
+Raichur,Arecanut,2005,31,126,1796,17391
+Raichur,Arecanut,2006,27,121,1824,17484
+Raichur,Arecanut,2007,27,126,1683,18821
+Raichur,Arecanut,2008,25,130,1539,17779
+Raichur,Arecanut,2009,26,119,1578,16057
+Raichur,Maize(Corn),2000,27,118,1587,16517
+Raichur,Maize(Corn),2001,29,125,1447,16443
+Raichur,Maize(Corn),2002,27,127,1570,18695
+Raichur,Maize(Corn),2003,30,119,1766,16061
+Raichur,Maize(Corn),2004,28,121,1754,14234
+Raichur,Maize(Corn),2005,27,127,1727,18592
+Raichur,Maize(Corn),2006,27,128,1497,15782
+Raichur,Maize(Corn),2007,29,118,1528,16734
+Raichur,Maize(Corn),2008,30,116,1814,16322
+Raichur,Maize(Corn),2009,29,122,1748,15702
+Raichur,Cotton,2009,27,114,1543,17768
+Raichur,Cotton,2010,29,126,1491,18949
+Raichur,Cotton,2011,31,118,1671,16601
+Raichur,Cotton,2012,28,128,1746,14594
+Raichur,Cotton,2013,27,113,1832,14970
+Raichur,Cotton,2014,27,112,1763,15892
+Raichur,Cotton,2015,30,110,1754,14421
+Raichur,Cotton,2016,26,128,1450,16822
+Raichur,Cotton,2017,27,120,1573,17179
+Raichur,Cotton,2018,27,117,1728,17788
+Raichur,Rice,2009,28,121,1543,15763
+Raichur,Rice,2010,27,117,1824,15810
+Raichur,Rice,2011,28,124,1422,16215
+Yadgir,Rice,2012,27,124,1661,15235
+Yadgir,Rice,2013,27,124,1711,15330
+Yadgir,Rice,2014,25,114,1579,14977
+Yadgir,Rice,2015,27,111,1479,16526
+Yadgir,Rice,2016,29,115,1440,18456
+Yadgir,Rice,2017,30,128,1448,14669
+Yadgir,Rice,2018,28,111,1707,18004
+Yadgir,Bajra,2009,30,113,1511,15149
+Yadgir,Bajra,2010,27,113,1697,14766
+Yadgir,Bajra,2011,31,123,1636,16674
+Yadgir,Bajra,2012,27,117,1587,16302
+Yadgir,Bajra,2013,31,112,1610,15613
+Yadgir,Bajra,2014,31,126,1748,14043
+Yadgir,Bajra,2015,27,121,1733,16064
+Yadgir,Bajra,2016,27,126,1523,16571
+Yadgir,Bajra,2017,25,130,1820,16835
+Yadgir,Bajra,2018,26,119,1648,17290
+Yadgir,Jowar,2009,27,118,1676,14133
+Yadgir,Jowar,2010,29,125,1703,14703
+Yadgir,Jowar,2011,27,127,1811,16670
+Yadgir,Jowar,2012,30,119,1606,16594
+Yadgir,Jowar,2013,28,121,1769,18792
+Yadgir,Jowar,2014,27,127,1830,18170
+Yadgir,Jowar,2015,27,128,1492,18836
+Yadgir,Jowar,2016,29,118,1737,14069
+Yadgir,Jowar,2017,30,116,1895,15748
+Yadgir,Jowar,2018,29,122,1708,15007
+Yadgir,Arecanut,2000,27,114,1732,14248
+Yadgir,Arecanut,2001,29,126,1772,17039
+Yadgir,Arecanut,2002,31,118,1743,18432
+Yadgir,Arecanut,2003,28,128,1781,15061
+Yadgir,Arecanut,2004,27,113,1827,17760
+Yadgir,Arecanut,2005,27,112,1754,16540
+Yadgir,Arecanut,2006,30,110,1774,15792
+Yadgir,Arecanut,2007,26,128,1469,16750
+Yadgir,Arecanut,2008,27,120,1537,15797
+Yadgir,Arecanut,2009,27,117,1764,15653
+Yadgir,Maize(Corn),2000,28,121,1569,17291
+Yadgir,Maize(Corn),2001,27,117,1682,15147
+Yadgir,Maize(Corn),2002,28,124,1606,15746
+Yadgir,Maize(Corn),2003,27,124,1836,15627
+Yadgir,Maize(Corn),2004,27,124,1750,17935
+Yadgir,Maize(Corn),2005,25,114,1600,16973
+Ramanagara,Maize(Corn),2006,27,111,1457,14265
+Ramanagara,Maize(Corn),2007,29,115,1677,18180
+Ramanagara,Maize(Corn),2008,30,128,1610,15283
+Ramanagara,Maize(Corn),2009,28,111,1616,14696
+Ramanagara,Cotton,2000,30,113,1424,16727
+Ramanagara,Cotton,2001,27,113,1470,17665
+Ramanagara,Cotton,2002,31,123,1535,16142
+Ramanagara,Cotton,2003,27,117,1544,17541
+Ramanagara,Cotton,2004,31,112,1548,17814
+Ramanagara,Cotton,2005,31,126,1825,14144
+Ramanagara,Cotton,2006,27,121,1835,16294
+Ramanagara,Cotton,2007,27,126,1710,16418
+Ramanagara,Cotton,2008,25,130,1806,17974
+Ramanagara,Cotton,2009,26,119,1850,14682
+Ramanagara,Rice,2000,27,118,1854,17395
+Ramanagara,Rice,2001,29,125,1693,17478
+Ramanagara,Rice,2002,27,127,1492,17638
+Ramanagara,Rice,2003,30,119,1793,18038
+Ramanagara,Rice,2004,28,121,1432,15586
+Ramanagara,Rice,2005,27,127,1426,15765
+Ramanagara,Rice,2006,27,128,1832,16517
+Ramanagara,Rice,2007,29,118,1872,18674
+Ramanagara,Rice,2008,30,116,1595,17161
+Ramanagara,Rice,2009,29,122,1668,17676
+Ramanagara,Bajra,2009,27,114,6771,24268
+Ramanagara,Bajra,2010,29,126,11502,25903
+Ramanagara,Bajra,2011,31,118,7696,26083
+Ramanagara,Bajra,2012,28,128,6040,29737
+Ramanagara,Bajra,2013,27,113,7673,22299
+Ramanagara,Bajra,2014,27,112,10506,22800
+Ramanagara,Bajra,2015,30,110,8551,26984
+Ramanagara,Bajra,2016,26,128,6200,30615
+Ramanagara,Bajra,2017,27,120,11515,25748
+Ramanagara,Bajra,2018,27,117,11094,27374
+Ramanagara,Jowar,2009,28,121,6842,31251
+Ramanagara,Jowar,2010,27,117,10530,30598
+Ramanagara,Jowar,2011,28,124,9578,30327
+Ramanagara,Jowar,2012,27,124,10753,28547
+Ramanagara,Jowar,2013,27,124,6392,28446
+Ramanagara,Jowar,2014,25,114,6768,26632
+Ramanagara,Jowar,2015,27,111,11779,27496
+Ramanagara,Jowar,2016,29,115,6040,25916
+Ramanagara,Jowar,2017,30,128,9413,31784
+Ramanagara,Jowar,2018,28,111,6541,23263
+Ramanagara,Arecanut,2009,30,113,7824,25656
+Ramanagara,Arecanut,2010,27,113,9337,23488
+Ramanagara,Arecanut,2011,31,123,11568,22474
+Ramanagara,Arecanut,2012,27,117,7507,25017
+Ramanagara,Arecanut,2013,31,112,6962,31802
+Ramanagara,Arecanut,2014,31,126,6423,29948
+Ramanagara,Arecanut,2015,27,121,9360,23259
+Ramanagara,Arecanut,2016,27,126,10775,23459
+Ramanagara,Arecanut,2017,25,130,6404,28406
+Ramanagara,Arecanut,2018,26,119,6153,25166
+Ramanagara,Maize(Corn),2009,27,118,9996,30389
+Ramanagara,Maize(Corn),2010,29,125,8408,30026
+Ramanagara,Maize(Corn),2011,27,127,11396,26328
+Ramanagara,Maize(Corn),2012,30,119,10718,25256
+Ramanagara,Maize(Corn),2013,28,121,6983,25619
+Ramanagara,Maize(Corn),2014,27,127,9029,23034
+Ramanagara,Maize(Corn),2015,27,128,9770,24284
+Ramanagara,Maize(Corn),2016,29,118,6710,27166
+Ramanagara,Maize(Corn),2017,30,116,9387,22205
+Uttara Kannada (Karwar),Maize(Corn),2018,29,122,10381,23494
+Uttara Kannada (Karwar),Cotton,2000,27,114,7917,23442
+Uttara Kannada (Karwar),Cotton,2001,29,126,7042,22570
+Uttara Kannada (Karwar),Cotton,2002,31,118,6255,23677
+Uttara Kannada (Karwar),Cotton,2003,28,128,8823,29124
+Uttara Kannada (Karwar),Cotton,2004,27,113,11783,27958
+Uttara Kannada (Karwar),Cotton,2005,27,112,8704,28354
+Uttara Kannada (Karwar),Cotton,2006,30,110,8345,31521
+Uttara Kannada (Karwar),Cotton,2007,26,128,6918,28070
+Uttara Kannada (Karwar),Cotton,2008,27,120,10762,28535
+Uttara Kannada (Karwar),Cotton,2009,27,117,6563,28936
+Uttara Kannada (Karwar),Rice,2000,28,121,8323,30425
+Uttara Kannada (Karwar),Rice,2001,27,117,8999,29745
+Uttara Kannada (Karwar),Rice,2002,28,124,9688,26650
+Uttara Kannada (Karwar),Rice,2003,27,124,9979,22434
+Uttara Kannada (Karwar),Rice,2004,27,124,11216,28258
+Uttara Kannada (Karwar),Rice,2005,25,114,10898,28406
+Uttara Kannada (Karwar),Rice,2006,27,111,8356,30934
+Uttara Kannada (Karwar),Rice,2007,29,115,10853,22163
+Uttara Kannada (Karwar),Rice,2008,30,128,11282,25511
+Uttara Kannada (Karwar),Rice,2009,28,111,9174,26314
+Uttara Kannada (Karwar),Bajra,2000,30,113,10812,29183
+Uttara Kannada (Karwar),Bajra,2001,27,113,10648,28501
+Uttara Kannada (Karwar),Bajra,2002,31,123,9384,29520
+Uttara Kannada (Karwar),Bajra,2003,27,117,11549,25827
+Uttara Kannada (Karwar),Bajra,2004,31,112,7185,26183
+Uttara Kannada (Karwar),Bajra,2005,31,126,10712,22835
+Uttara Kannada (Karwar),Bajra,2006,27,121,6954,28837
+Uttara Kannada (Karwar),Bajra,2007,27,126,6152,26449
+Uttara Kannada (Karwar),Bajra,2008,25,130,7773,29833
+Uttara Kannada (Karwar),Bajra,2009,26,119,8103,26522
+Uttara Kannada (Karwar),Jowar,2000,27,118,7544,24864
+Uttara Kannada (Karwar),Jowar,2001,29,125,7605,27812
+Uttara Kannada (Karwar),Jowar,2002,27,127,6385,24325
+Uttara Kannada (Karwar),Jowar,2003,30,119,11314,23703
+Uttara Kannada (Karwar),Jowar,2004,28,121,10487,28868
+Uttara Kannada (Karwar),Jowar,2005,27,127,6940,23054
+Uttara Kannada (Karwar),Jowar,2006,27,128,11596,27078
+Uttara Kannada (Karwar),Jowar,2007,29,118,10682,29527
+Uttara Kannada (Karwar),Jowar,2008,30,116,11406,24021
+Uttara Kannada (Karwar),Jowar,2009,29,122,8262,30051
+Uttara Kannada (Karwar),Arecanut,2009,27,114,6365,30882
+Uttara Kannada (Karwar),Arecanut,2010,29,126,10206,25222
+Uttara Kannada (Karwar),Arecanut,2011,31,118,8784,23693
+Uttara Kannada (Karwar),Arecanut,2012,28,128,9235,29897
+Uttara Kannada (Karwar),Arecanut,2013,27,113,9471,29441
+Uttara Kannada (Karwar),Arecanut,2014,27,112,10801,24194
+Uttara Kannada (Karwar),Arecanut,2015,30,110,11422,23527
+Uttara Kannada (Karwar),Arecanut,2016,26,128,11100,25527
+Uttara Kannada (Karwar),Arecanut,2017,27,120,8429,23497
+Uttara Kannada (Karwar),Arecanut,2018,27,117,11658,24886
+Uttara Kannada (Karwar),Maize(Corn),2009,28,121,8109,23762
+Uttara Kannada (Karwar),Maize(Corn),2010,27,117,11568,28027
+Uttara Kannada (Karwar),Maize(Corn),2011,28,124,9902,29245
+Uttara Kannada (Karwar),Maize(Corn),2012,27,124,6706,23268
+Uttara Kannada (Karwar),Maize(Corn),2013,27,124,8648,29723
+Uttara Kannada (Karwar),Maize(Corn),2014,25,114,11369,25017
+Uttara Kannada (Karwar),Maize(Corn),2015,27,111,9378,31605
+Uttara Kannada (Karwar),Maize(Corn),2016,29,115,10874,29635
+Uttara Kannada (Karwar),Maize(Corn),2017,30,128,8047,26328
+Uttara Kannada (Karwar),Maize(Corn),2018,28,111,8141,30009
+Uttara Kannada (Karwar),Cotton,2009,30,113,8950,23109
+Uttara Kannada (Karwar),Cotton,2010,27,113,8851,24612
+Uttara Kannada (Karwar),Cotton,2011,31,123,11023,28768
+Uttara Kannada (Karwar),Cotton,2012,27,117,6356,24333
+Uttara Kannada (Karwar),Cotton,2013,31,112,7566,29170
+Uttara Kannada (Karwar),Cotton,2014,31,126,8775,25112
+Uttara Kannada (Karwar),Cotton,2015,27,121,6733,28824
+Uttara Kannada (Karwar),Cotton,2016,27,126,8325,24083
+Uttara Kannada (Karwar),Cotton,2017,25,130,7715,29651
+Uttara Kannada (Karwar),Cotton,2018,26,119,8177,24191
+Uttara Kannada (Karwar),Rice,2009,27,118,11498,22907
+Uttara Kannada (Karwar),Rice,2010,29,125,10546,30024
+Uttara Kannada (Karwar),Rice,2011,27,127,7397,30020
+Uttara Kannada (Karwar),Rice,2012,30,119,11166,31619
+Uttara Kannada (Karwar),Rice,2013,28,121,10062,30436
+Uttara Kannada (Karwar),Rice,2014,27,127,11704,29791
+Uttara Kannada (Karwar),Rice,2015,27,128,10882,27824
+Uttara Kannada (Karwar),Rice,2016,29,118,10714,26668
+Uttara Kannada (Karwar),Rice,2017,30,116,9834,28820
+Uttara Kannada (Karwar),Rice,2018,29,122,10215,23213
+Uttara Kannada (Karwar),Bajra,2000,27,114,6557,26415
+Uttara Kannada (Karwar),Bajra,2001,29,126,8092,24793
+Uttara Kannada (Karwar),Bajra,2002,31,118,11742,27941
+Uttara Kannada (Karwar),Bajra,2003,28,128,8033,28302
+Uttara Kannada (Karwar),Bajra,2004,27,113,6036,23389
+Vijayapura (Bijapur),Bajra,2005,27,112,7993,23479
+Vijayapura (Bijapur),Bajra,2006,30,110,6108,23873
+Vijayapura (Bijapur),Bajra,2007,26,128,7397,30656
+Vijayapura (Bijapur),Bajra,2008,27,120,8412,26815
+Vijayapura (Bijapur),Bajra,2009,27,117,7835,30977
+Vijayapura (Bijapur),Jowar,2000,28,121,9102,31015
+Vijayapura (Bijapur),Jowar,2001,27,117,11392,25864
+Vijayapura (Bijapur),Jowar,2002,28,124,8750,23936
+Vijayapura (Bijapur),Jowar,2003,27,124,9264,30248
+Vijayapura (Bijapur),Jowar,2004,27,124,10083,26782
+Vijayapura (Bijapur),Jowar,2005,25,114,9913,24347
+Vijayapura (Bijapur),Jowar,2006,27,111,8624,23931
+Vijayapura (Bijapur),Jowar,2007,29,115,10081,22112
+Vijayapura (Bijapur),Jowar,2008,30,128,9335,26905
+Vijayapura (Bijapur),Jowar,2009,28,111,10722,31124
+Vijayapura (Bijapur),Arecanut,2000,30,113,8247,24739
+Vijayapura (Bijapur),Arecanut,2001,27,113,10142,23039
+Vijayapura (Bijapur),Arecanut,2002,31,123,11081,29322
+Vijayapura (Bijapur),Arecanut,2003,27,117,6776,27549
+Vijayapura (Bijapur),Arecanut,2004,31,112,11015,29180
+Vijayapura (Bijapur),Arecanut,2005,31,126,6341,28851
+Vijayapura (Bijapur),Arecanut,2006,27,121,8855,22544
+Vijayapura (Bijapur),Arecanut,2007,27,126,6996,22768
+Vijayapura (Bijapur),Arecanut,2008,25,130,11328,29479
+Vijayapura (Bijapur),Arecanut,2009,26,119,9191,28689
+Vijayapura (Bijapur),Maize(Corn),2000,27,118,11698,24138
+Vijayapura (Bijapur),Maize(Corn),2001,29,125,9291,24022
+Vijayapura (Bijapur),Maize(Corn),2002,27,127,8600,23841
+Vijayapura (Bijapur),Maize(Corn),2003,30,119,10842,28345
+Vijayapura (Bijapur),Maize(Corn),2004,28,121,10270,29205
+Vijayapura (Bijapur),Maize(Corn),2005,27,127,9808,24073
+Vijayapura (Bijapur),Maize(Corn),2006,27,128,6551,22435
+Vijayapura (Bijapur),Maize(Corn),2007,29,118,8775,24135
+Vijayapura (Bijapur),Maize(Corn),2008,30,116,10890,28676
+Vijayapura (Bijapur),Maize(Corn),2009,29,122,8146,27023
