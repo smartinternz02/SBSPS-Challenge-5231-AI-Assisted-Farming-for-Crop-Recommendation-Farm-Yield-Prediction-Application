@@ -6,7 +6,9 @@ Digital Farming and Precision Agriculture allow precise utilization of inputs li
 
 # DEMONSTRATION:
 
-##
+## Screenshots:
+
+![image](https://user-images.githubusercontent.com/78092182/131491586-4f7ccf74-697a-4dba-bb04-21f17255f5fd.png)
 
 ## Video:
 
