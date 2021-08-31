@@ -20,6 +20,14 @@ Digital Farming and Precision Agriculture allow precise utilization of inputs li
 
 ### Crop Prediction:
 
+![WhatsApp Image 2021-08-31 at 4 46 06 PM](https://user-images.githubusercontent.com/69091252/131493439-af287917-24cf-44d1-ae73-62798af0fd86.jpeg)
+
+![WhatsApp Image 2021-08-31 at 4 46 02 PM](https://user-images.githubusercontent.com/69091252/131493507-8c829b9c-cc95-40c7-9b50-1de707f3d35e.jpeg)
+
+
+
+![WhatsApp Image 2021-08-31 at 4 45 59 PM](https://user-images.githubusercontent.com/69091252/131493550-a83fbcc4-9243-4686-91f1-816d407272c1.jpeg)
+
 
 ### UI:
 ![image](https://user-images.githubusercontent.com/78092182/131492931-dbf9f004-be58-4fa0-a12c-89635d9b5049.png)
