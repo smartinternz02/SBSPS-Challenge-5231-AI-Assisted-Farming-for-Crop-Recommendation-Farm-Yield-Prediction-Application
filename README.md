@@ -39,7 +39,11 @@ https://drive.google.com/file/d/1qL0PfM7Ei_gcjR1Li6DxyJTpNcDent89/view?usp=shari
 
 ## Node Red :
 
+### Crop-Yield Prediction Node Red Flow : 
+
 https://node-red-vrcws-2021-07-27.eu-gb.mybluemix.net/red/#flow/ec89aebb.acb1d
+
+### Crop Prediction Node Red Flow : 
 
 https://node-red-vrcws-2021-07-27.eu-gb.mybluemix.net/red/#flow/faf6943c.7d94d8
 
