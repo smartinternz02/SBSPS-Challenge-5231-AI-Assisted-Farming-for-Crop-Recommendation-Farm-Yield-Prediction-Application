@@ -14,7 +14,7 @@ Digital Farming and Precision Agriculture allow precise utilization of inputs li
 
 ![image](https://user-images.githubusercontent.com/78092182/131491714-a382aefb-4b6c-4eba-a56c-55e9aa143707.png)
 
-
+![image](https://user-images.githubusercontent.com/67931219/131494014-6a7decd2-9830-4b1c-ac8b-9ef6787df3c3.png)
 
 ![image](https://user-images.githubusercontent.com/78092182/131492183-eeff5d00-647b-4d9e-82a1-eee2fe5afe95.png)
 
@@ -24,8 +24,7 @@ Digital Farming and Precision Agriculture allow precise utilization of inputs li
 
 ![WhatsApp Image 2021-08-31 at 4 46 02 PM](https://user-images.githubusercontent.com/69091252/131493507-8c829b9c-cc95-40c7-9b50-1de707f3d35e.jpeg)
 
-
-
+![image](https://user-images.githubusercontent.com/67931219/131494109-6a352cde-8996-4b06-8371-4d69af8779e1.png)
 
 ![WhatsApp Image 2021-08-31 at 4 46 06 PM](https://user-images.githubusercontent.com/69091252/131493439-af287917-24cf-44d1-ae73-62798af0fd86.jpeg)
 
